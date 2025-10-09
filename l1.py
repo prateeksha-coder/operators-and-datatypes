@@ -16,6 +16,12 @@ value1=str(value)
 print(value1,type(value1))
 
 
+
+
+
+
+
+
 num1 = 45
 num2 = 3
 
