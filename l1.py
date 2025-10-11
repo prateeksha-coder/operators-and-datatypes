@@ -22,6 +22,7 @@ print(value1,type(value1))
 
 
 
+
 num1 = 45
 num2 = 3
 
@@ -45,6 +46,9 @@ result = num1/2+num2**2+10
 print("Result of given equation is:", result)
 
 
+
+
+
 first_name = "Codingal"
 last_name = "Educations"
 full_name = first_name+last_name
@@ -61,14 +65,18 @@ print("First Letter of String :", word[0])
 print("Last Letter of String :", word[5])
 print("String Sliced :", word[0:3])
 
+
+
+
+
 # Take input values from user
-x = input("Enter Value of x:")
-y = input("Enter Value of y:")
+x = input("Enter Value of x:") #5
+y = input("Enter Value of y:") #6
 
 # Swapping
-temp = x
-x = y
-y = temp
+temp = x #5
+x = y #6
+y = temp  #5
 
 # Displaying results after swapping
 print("value of x after swapping", x)
